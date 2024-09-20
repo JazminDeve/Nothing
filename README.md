@@ -1,2 +1,2 @@
-# Nothing
-Uix
+# ○|￣|_
+Interest in the world of software and hardware.
