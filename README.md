@@ -1,2 +1,4 @@
-# ○|￣|_
-Interest in the world of software and hardware.
+# 
+```diff
+- Interest in the world of software and hardware.
+```
